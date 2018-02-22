@@ -346,6 +346,11 @@ footer .cv-pdf i:hover {
     margin: 40px 20px;
 }
 
+.skills-icon {
+    font-size: 26px;
+    color: #9b59b6;
+}
+
 /*-----------------------------------------------------Contact---*/
 .contact-heading {
     font-family: "Exo", sans-serif;
